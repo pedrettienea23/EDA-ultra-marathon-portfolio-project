@@ -1,5 +1,5 @@
 # EDA-portfolio-project
-This repository contains the code and analysis for a project investigating ultra marathon data.
+This repository contains the code and analysis for a personal project investigating ultra marathon data.
 
 **Project Overview**
 
